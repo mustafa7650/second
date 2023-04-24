@@ -1,0 +1,60 @@
+*{
+    padding: 0%;
+    margin:0;
+    background-color: #c82721; }
+    
+.sub{
+    font-size: 70px;
+    background-color: rgb (144, 44, 44);
+font-display: 80px;   }
+img{
+    width: 200px;
+    border-radius: 100px;
+    background-color: #c82721;
+    float: left;
+    margin-right: 100px    ;
+}
+p{
+    background-image: -webkit-linear-gradient(ds);
+background-color: #c82721;
+font-size: 50px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;           }
+.main{
+font-size: 15px;
+float: LEFT;
+}
+em {
+color: rgb(255, 255, 255);
+
+}
+.noit{
+font-style: normal;
+}
+
+#mytext{
+width:100%;
+background-color: rgb(255, 255, 255);
+color: black;
+height:300px;
+border:solid rgb(255, 255, 255)
+}
+#third{ 
+    background-color: chartreuse;
+}
+#baba{
+    background-color: chartreuse;
+}
+#mama{
+    background-color: chartreuse;
+
+}
+#BLANK1{background-color:azure;
+
+
+}
+#BLANK0
+
+{
+    background-color: azure;
+}
